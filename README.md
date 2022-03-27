@@ -1,4 +1,4 @@
-<h1 align="center">Bhai Lang</h1>
+<h1 align="center">Arnav-Lang</h1>
 <p align="center">
 <a href="https://lgtm.com/projects/g/DulLabs/bhai-lang/alerts/"><img alt="Total alerts" src="https://img.shields.io/lgtm/alerts/g/DulLabs/bhai-lang.svg?logo=lgtm&logoWidth=18"/></a>
 <a href="https://lgtm.com/projects/g/DulLabs/bhai-lang/context:javascript"><img alt="Language grade: JavaScript" src="https://img.shields.io/lgtm/grade/javascript/g/DulLabs/bhai-lang.svg?logo=lgtm&logoWidth=18"/></a>
@@ -8,8 +8,8 @@
   
 </p>
 <p align="center">
-  This is official repository for bhai-lang.<br><br>
-  <b>Bhai lang is a toy programming language written in Typescript.</b>
+  This is official repository for Ghariaal.<br><br>
+  <b>Ghariaal is a  programming language written in Typescript.</b>
 </p>
 <br>
 
@@ -25,7 +25,7 @@ npm i -g bhailang
 
 
 <h4 align="left">Edit the file with a text editor.
-You can also try out your code on <a href="https://bhailang.js.org/#playground">Bhai Lang PlayGround</a></h4>
+You can also try out your code on <a href="https://bhailang.js.org/#playground">Ghariaal V1 PlayGround</a></h4>
 
 ```
 hi bhai
