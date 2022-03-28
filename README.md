@@ -8,8 +8,8 @@
   
 </p>
 <p align="center">
-  This is official repository for Ghariaal.<br><br>
-  <b>Ghariaal is a  programming language written in Typescript.</b>
+  This is official repository for Rasgulla.<br><br>
+  <b>Ghariaal is a  programming language written in Typescript to introduce beginners to text based programming.</b>
 </p>
 <br>
 
@@ -25,7 +25,7 @@ npm i -g bhailang
 
 
 <h4 align="left">Edit the file with a text editor.
-You can also try out your code on <a href="https://bhailang.js.org/#playground">Ghariaal V1 PlayGround</a></h4>
+You can also try out your code on <a href="https://bhailang.js.org/#playground">RasgullaPlayGround</a></h4>
 
 ```
 hi bhai
@@ -94,7 +94,7 @@ bye bhai
 ```
 
 <h3 align="center">Built-ins</h3>
-<p align="center">Use <code>bol bhai</code> to print anything to console.</p>
+<p align="center">Use <code>bol bhai</code> to print anything to console.TODO:Puch bhai is coming soon to take user input.</p>
 
 ```
 
@@ -150,7 +150,7 @@ bye bhai
 ```
 
 <h2 align="center">Development</h2>
-<p align="center">You can explore abstract syntax tree(AST) of bhailang <a href="https://bhailang-ast.netlify.app/" target="_blank">here</a>.</p>
+<p align="center">You can explore abstract syntax tree(AST) of Rasgulla <a href="https://bhailang-ast.netlify.app/" target="_blank">here</a>.</p>
 
 
 
