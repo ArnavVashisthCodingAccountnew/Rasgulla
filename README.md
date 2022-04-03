@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   This is official repository for Rasgulla.<br><br>
-  <b>Ghariaal is a  programming language written in Typescript to introduce beginners to text based programming.</b>
+  <b>Rasgulla is a  programming language written in Typescript to introduce beginners to text based programming.</b>
 </p>
 <br>
 
